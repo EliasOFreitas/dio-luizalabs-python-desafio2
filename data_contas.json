@@ -1,0 +1,163 @@
+{
+    "12345": {
+        "nome": "Elias Franklin",
+        "endereco": "Rua tres, 987 - PL Paulista - Sao Paulo/SP",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "1",
+                "saldo": 550.5,
+                "limite": 500,
+                "extrato": [
+                    {
+                        "tipo": "deposito",
+                        "valor": 500.0,
+                        "data": "2026-01-06 16:45:18"
+                    },
+                    {
+                        "tipo": "saque",
+                        "valor": 700.0,
+                        "data": "2026-01-06 16:46:15"
+                    },
+                    {
+                        "tipo": "saque",
+                        "valor": 500.0,
+                        "data": "2026-01-06 16:53:59"
+                    }
+                ]
+            },
+            {
+                "agencia": "0001",
+                "numero_conta": "4",
+                "saldo": -500.0,
+                "limite": 500.0,
+                "extrato": [
+                    {
+                        "tipo": "deposito",
+                        "valor": 500.0,
+                        "data": "2025-12-09 16:47:45"
+                    },
+                    {
+                        "tipo": "saque",
+                        "valor": 500.0,
+                        "data": "2025-12-15 17:58:23"
+                    },
+                    {
+                        "tipo": "saque",
+                        "valor": 200.0,
+                        "data": "2025-12-15 17:58:49"
+                    },
+                    {
+                        "tipo": "saque",
+                        "valor": 300.0,
+                        "data": "2025-12-15 17:59:05"
+                    }
+                ]
+            },
+            {
+                "agencia": "0001",
+                "numero_conta": "100002",
+                "saldo": 0.0,
+                "limite": 3000.0,
+                "extrato": []
+            }
+        ]
+    },
+    "67890": {
+        "nome": "Nati Franklin",
+        "endereco": "Rua Seis, 789 - PL Paulista - Sao Paulo/SP",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "2",
+                "saldo": 305000.5,
+                "limite": 500,
+                "extrato": []
+            }
+        ]
+    },
+    "13579": {
+        "nome": "Well Franklin",
+        "endereco": "Rua sete , 321 - JD SAO SAVERIO - Sao Paulo/SP",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "3",
+                "saldo": 1500.5,
+                "limite": 500,
+                "extrato": [
+                    {
+                        "tipo": "Dep\u00f3sito",
+                        "valor": 1500.5,
+                        "data": "2025-11-25 10:00:00"
+                    }
+                ]
+            }
+        ]
+    },
+    "1234": {
+        "nome": "Elias Franklin",
+        "endereco": "Rua um, 111 - Jd Horizonte - S\u00e3o Paulo/SP",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "5",
+                "saldo": 0.0,
+                "limite": 3000.0,
+                "extrato": []
+            }
+        ]
+    },
+    "33333333333": {
+        "nome": "Almir",
+        "endereco": "rua dos alfineiros, 4 - Whining - Sao Paulo/SP",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "6",
+                "saldo": 0.0,
+                "limite": 3000.0,
+                "extrato": []
+            }
+        ]
+    },
+    "123456789": {
+        "nome": "Elias OF",
+        "endereco": "Rua 2",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "7",
+                "saldo": 0.0,
+                "limite": 1000.0,
+                "extrato": []
+            }
+        ]
+    },
+    "123456": {
+        "nome": "Elias Dublin",
+        "endereco": "Rua 32",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "100001",
+                "saldo": 0.0,
+                "limite": 1000.0,
+                "extrato": []
+            }
+        ]
+    },
+    "12312312312": {
+        "nome": "Elias SPS",
+        "endereco": "Rua 23",
+        "contas": [
+            {
+                "agencia": "0001",
+                "numero_conta": "100003",
+                "saldo": 0.0,
+                "limite": 2000.0,
+                "extrato": []
+            }
+        ]
+    }
+}
